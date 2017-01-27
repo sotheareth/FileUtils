@@ -10,9 +10,11 @@ FileUtil
 -------------------------------------
 
 Time taken by Java Util Scanner = 345805873271
+
 345805873271ns = 5.76 minutes
 
 Time taken by Stream Common IO Apache = 199105532573
+
 199105532573ns = 3.32 minutes
 
 
