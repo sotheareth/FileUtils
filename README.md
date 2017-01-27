@@ -29,8 +29,11 @@ http://www.baeldung.com/java-read-lines-large-file
 -------------------------------------
 
 Time taken by FileStreams Copy = 192416485932
+
 Time taken by FileChannels Copy = 241697883273
+
 Time taken by Java7 Files Copy = 261281536511
+
 Time taken by Apache Commons IO Copy = 237092876382
 
 
@@ -38,6 +41,9 @@ Time taken by Apache Commons IO Copy = 237092876382
 ##copy file test result with file < 1GB
 -------------------------------------
 Time taken by FileStreams Copy = 14990006088
+
 Time taken by FileChannels Copy = 10473824481
+
 Time taken by Java7 Files Copy = 14000058295
+
 Time taken by Apache Commons IO Copy = 17644227576
